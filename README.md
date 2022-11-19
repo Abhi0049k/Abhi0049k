@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Abhi0049k
-- 🤫 Currently building lots of projects on web development
+- 👋 Hi, I’m Mangalam Kumar
+- 🤫 Currently a student at Masai School
 - 👀 I’m interested in Web/App development...
 - 🌱 I’m currently learning Web development...
 
