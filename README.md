@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mangalamkumar2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KBX-mD_4IkgJ2iBtHysMefq85xacqP82/view?usp=share_link](https://drive.google.com/file/d/1KBX-mD_4IkgJ2iBtHysMefq85xacqP82/view?usp=share_link)
+- 📄 Know more about myself [Resume](https://drive.google.com/file/d/1KBX-mD_4IkgJ2iBtHysMefq85xacqP82/view?usp=share_link)
 
 - ⚡ Fun fact **I think I am very Adaptable**
 
