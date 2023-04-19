@@ -57,6 +57,10 @@
 ###
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Abhi0049k/Abhi0049k/blob/output/snake.svg" alt="Snake animation" />
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/Abhi0049k/count.svg?"  />
 </div>
