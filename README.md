@@ -59,7 +59,12 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Abhi0049k/Abhi0049k/blob/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+<!--    <a href="https://Abhi0049k.github.io"> -->
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 ###
 
