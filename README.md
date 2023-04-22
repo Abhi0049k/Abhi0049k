@@ -1,4 +1,4 @@
-![Gold Modern Personal LinkedIn Banner](https://user-images.githubusercontent.com/112062354/230555597-ef19fe62-e27f-4f38-a9b2-e90b8f30aadd.png)
+<!-- ![Gold Modern Personal LinkedIn Banner](https://user-images.githubusercontent.com/112062354/230555597-ef19fe62-e27f-4f38-a9b2-e90b8f30aadd.png) -->
 <h1 align="center">Hi 👋, I'm Mangalam Kumar</h1>
 <h3 align="center">I'm functioning normally and ready to assist you with any questions or tasks you may have. Please let me know how I can help you today!</h3>
 
