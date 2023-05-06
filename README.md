@@ -1,4 +1,4 @@
-<!-- ![Gold Modern Personal LinkedIn Banner](https://user-images.githubusercontent.com/112062354/230555597-ef19fe62-e27f-4f38-a9b2-e90b8f30aadd.png) -->
+![Gold Modern Personal LinkedIn Banner](https://user-images.githubusercontent.com/112062354/230555597-ef19fe62-e27f-4f38-a9b2-e90b8f30aadd.png)
 # 💫 About Me:
 🌱 I’m currently learning Nodejs<br>👨‍💻 All of my projects are available at https://abhi0049k.github.io/<br>💬 Ask me about HTML, CSS , Javascript, Java, MongoDB, Expressjs, Nodejs<br>📫 How to reach me mangalamkumar2002@gmail.com<br>📄 Know more about myself Resume<br>⚡ Fun fact I think I am very Adaptable
 
