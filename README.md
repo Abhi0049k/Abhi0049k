@@ -1,7 +1,7 @@
-![Gold Modern Personal LinkedIn Banner (1)](https://github.com/Abhi0049k/Abhi0049k/assets/112062354/648120b8-24d7-4e3b-88e8-861b43ff6e86)
+![gitBanner](https://github.com/Abhi0049k/Abhi0049k/assets/112062354/c9725306-9242-41da-84a0-0ad031381c27)
 
 # 💫 About Me:
-🌱 I’m currently learning Django and Vue.Js<br>👨‍💻 All of my projects are available at [https://abhi0049k-github-io.vercel.app/](https://abhi0049k-github-io.vercel.app/)<br>💬 Ask me about HTML, CSS, Javascript, Java, MongoDB, Expressjs, Nodejs, Reactjs, Socket.io<br>📫 How to reach me mangalamkumar2002@gmail.com<br>📄 Know more about myself [Resume](https://drive.google.com/u/0/uc?id=1KBX-mD_4IkgJ2iBtHysMefq85xacqP82&amp;export=download)<br>⚡ Fun fact I think I am very Adaptable
+🌱 I’m currently learning Django and VueJs<br>👨‍💻 All of my projects are available at [https://abhi0049k-github-io.vercel.app/](https://abhi0049k-github-io.vercel.app/)<br>💬 Ask me about HTML, CSS, JavaScript, Java, MongoDB, ExpressJs, NodeJs, ReactJs, Socket.io<br>📫 How to reach me mangalamkumar2002@gmail.com<br>📄 Know more about myself [Resume](https://drive.google.com/u/0/uc?id=1KBX-mD_4IkgJ2iBtHysMefq85xacqP82&amp;export=download)<br>⚡ Fun fact I think I am very Adaptable
 
 
 ## 🌐 Socials:
