@@ -1,4 +1,4 @@
-![gitBanner](https://github.com/Abhi0049k/Abhi0049k/assets/112062354/c9725306-9242-41da-84a0-0ad031381c27)
+![Gold Modern Personal LinkedIn Banner](https://github.com/Abhi0049k/Abhi0049k/assets/112062354/e42818a0-7e50-4379-a921-14cd9c1dca23)
 
 # 💫 About Me:
 🌱 I’m currently learning Django and VueJs<br>👨‍💻 All of my projects are available at [https://abhi0049k.github.io/](https://abhi0049k.github.io/)<br>💬 Ask me about HTML, CSS, JavaScript, Java, MongoDB, ExpressJs, NodeJs, ReactJs, Socket.io<br>📫 How to reach me mangalamkumar2002@gmail.com<br>📄 Know more about myself [Resume](https://drive.google.com/u/0/uc?id=1KBX-mD_4IkgJ2iBtHysMefq85xacqP82&amp;export=download)<br>⚡ Fun fact I think I am very Adaptable
