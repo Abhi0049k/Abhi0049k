@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Django and VueJs<br>👨‍💻 All of my projects are available at [https://abhi0049k.github.io/](https://abhi0049k.github.io/)<br>💬 Ask me about HTML, CSS, JavaScript, Java, MongoDB, ExpressJs, NodeJs, ReactJs, Socket.io<br>📫 How to reach me mangalamkumar2002@gmail.com<br>📄 Know more about myself [Resume](https://drive.google.com/u/0/uc?id=1KBX-mD_4IkgJ2iBtHysMefq85xacqP82&amp;export=download)<br>⚡ Fun fact I think I am very Adaptable
+🌱 I’m currently working on building projects. <br>👨‍💻 All of my projects are available at [https://abhi0049k.github.io/](https://abhi0049k.github.io/)<br>💬 Ask me about HTML, CSS, JavaScript, Java, MongoDB, ExpressJs, NodeJs, ReactJs, Socket.io<br>📫 How to reach me mangalamkumar2002@gmail.com<br>📄 Know more about myself [Resume](https://drive.google.com/u/0/uc?id=1KBX-mD_4IkgJ2iBtHysMefq85xacqP82&amp;export=download)<br>⚡ Fun fact I think I am very Adaptable
 
 
 ## 🌐 Socials:
@@ -27,7 +27,8 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
