@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently working on building projects. <br>👨‍💻 All of my projects are available at [https://abhi0049k.github.io/](https://abhi0049k.github.io/)<br>💬 Ask me about HTML, CSS, JavaScript, Java, MongoDB, ExpressJs, NodeJs, ReactJs, Socket.io<br>📫 How to reach me mangalamkumar2002@gmail.com<br>📄 Know more about myself [Resume](https://drive.google.com/u/0/uc?id=1KBX-mD_4IkgJ2iBtHysMefq85xacqP82&amp;export=download)<br>⚡ Fun fact I think I am very Adaptable
+👋 Hi, I'm Mangalam!<br>I'm a Software Developer, a Tech Mentor and a BCA student at the University of Mysore, with a passion for full-stack development using the MERN stack. I enjoy building web applications and learning new technologies.<br><br>🔧 Technologies I Work With:<br>Frontend: HTML, CSS, JavaScript, React.js, Chakra UI, TailwindCSS, ShadCN<br>Backend: Node.js, Express.js, Python, MySQL, PostgreSQL, MongoDB<br>Cloud & Tools: AWS, Cloudflare<br>Other Skills: API Development,  AI, and Event-Driven Architecture <br><br>🌱 What I’m Learning:<br>Exploring Natural Language Processing (NLP) and AI for building personalized and intelligent applications.<br>Expanding my knowledge of Computer Architecture and Organization.
 
 
 ## 🌐 Socials:
