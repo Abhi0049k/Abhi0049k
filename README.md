@@ -54,6 +54,8 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# Hacktoberfest2024 Badges
+[![An image of @abhi0049k's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhi0049k)](https://holopin.io/@abhi0049k)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Abhi0049k&icon=0&color=0)](https://visitcount.itsvg.in)
