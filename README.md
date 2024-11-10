@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Mangalam!<br>I'm a Software Developer, a Tech Mentor and a BCA student at the University of Mysore, with a passion for full-stack development using the MERN stack. I enjoy building web applications and learning new technologies.<br><br>🔧 Technologies I Work With:<br>Frontend: HTML, CSS, JavaScript, React.js, Chakra UI, TailwindCSS, ShadCN<br>Backend: Node.js, Express.js, Python, MySQL, PostgreSQL, MongoDB<br>Cloud & Tools: AWS, Cloudflare<br>Other Skills: API Development,  AI, and Event-Driven Architecture <br><br>🌱 What I’m Learning:<br>Exploring Natural Language Processing (NLP) and AI for building personalized and intelligent applications.<br>Expanding my knowledge of Computer Architecture and Organization.
+👋 Hi, I'm Mangalam!<br>I'm an aspiring Software Developer, a Tech Mentor and a BCA student at the University of Mysore, with a passion for full-stack development using the MERN stack. I enjoy building web applications and learning new technologies.<br><br>🔧 Technologies I Work With:<br>Frontend: HTML, CSS, JavaScript, React.js, Chakra UI, TailwindCSS, ShadCN<br>Backend: Node.js, Express.js, Python, MySQL, PostgreSQL, MongoDB<br>Cloud & Tools: AWS, Cloudflare<br>Other Skills: API Development,  AI, and Event-Driven Architecture <br><br>🌱 What I’m Learning:<br>Exploring Natural Language Processing (NLP) and AI for building personalized and intelligent applications.<br>Expanding my knowledge of Computer Architecture and Organization.
 
 
 ## 🌐 Socials:
@@ -53,17 +53,18 @@
 ![](https://github-profile-trophy.vercel.app/?username=Abhi0049k&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 # GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
+<div style='display:flex; justify-content:center; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+<img src="https://gssoc.girlscript.tech/badges/web3hack.png?imwidth=96" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
 </div>
+
 
 # Hacktoberfest2024 Badges
 [![An image of @abhi0049k's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhi0049k)](https://holopin.io/@abhi0049k)
